@@ -53,13 +53,13 @@
 
 ---
 
-### 📌 Featured Project
+### 📌 Featured Projects
 
-**🚦 Traffic License Management System**
-
-A full-featured desktop application for managing traffic licenses — built with WinForms and SQL Server. One of my biggest projects that covers real-world business logic end to end.
-
-> Check it out in my repositories!
+| Project | Type | Tech |
+|---|---|---|
+| [🚦 DriverLicenseManagment](https://github.com/mohamed68909/DriverLicenseManagment) | Desktop App | WinForms · SQL Server |
+| [🏥 ClinicManagementAPI](https://github.com/mohamed68909/ClinicManagementAPI) | REST API | ASP.NET Core · EF Core · SQL Server |
+| [🛒 TechStore](https://github.com/mohamed68909/TechStore) | API + MVC | ASP.NET Core · EF Core · SQL Server |
 
 ---
 
