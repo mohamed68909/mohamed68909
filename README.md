@@ -48,7 +48,8 @@
 | 🏁 Start | WinForms with the roadmap of Eng. Mohamed Abu Hodhod |
 | 🖥️ Desktop | Built a large-scale **Traffic License Management System** |
 | 🌐 Web | Moved to **ASP.NET MVC** then **RESTful APIs** |
-| 🚀 Now | Microservices · Cloud · CI/CD · Docker · React (learning) |
+| 🚀 Now | ASP.NET Core APIs · React (learning) |
+| 🎯 Next | Microservices · Docker · CI/CD · Cloud |
 
 ---
 
@@ -74,8 +75,8 @@ A full-featured desktop application for managing traffic licenses — built with
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-ashraf-abdulkareem)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohamedashrafabdulkareem@gmail.com)
 
 ---
 
